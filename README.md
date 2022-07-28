@@ -1,1 +1,1 @@
-# aad-hololens-mrtk3
+# AAD HoloLens MRTK3
